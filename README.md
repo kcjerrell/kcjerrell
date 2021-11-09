@@ -6,3 +6,5 @@ I'm currently wrapping up the last of my education at [Lambda School](https://la
 
 #### What I want to do
 After an aimless and mediocre 'career' in retail - I'm making the jump! I'm actively seeking any position as a developer - frontend, backend, or otherwise.
+
+[This is all out of date! I just haven't come up with a new format for explaining that I'm a Lead QA Engineer for QA Wolf.]
