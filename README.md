@@ -1,10 +1,8 @@
 #### Who I am
-I have been coding/programming since I was in junior high (that's... we'll say at least 20 years ago). It's something I've kept up as a hobby throughout my life - mostly just pet projects, automation, transforming data, and hacking bits together. But now I'm dedicating myself to making a career of it! I'm passionate about writing clean code, always eager to learn new languages/platforms/libraries, and am ready for new challenges.
+I have been coding/programming since I was in junior high (that's... we'll say at least 20 years ago). It's something I've kept up as a hobby throughout my life - mostly just pet projects, automation, transforming data, and hacking bits together. After an aimless and mediocre 'career' in retail, I used quarantine and my stimulus money to invest in myself and pursue coding professionally. I attended Lambda School, an online coding bootcamp, and in my final week of Labs accepted an offer to work for a little start-up called QA Wolf.
 
 #### What I am doing
-I'm currently wrapping up the last of my education at [Lambda School](https://lambdaschool.com/), working on a project for [Human Rights First](https://www.humanrightsfirst.org/) called Blue Witness. It's an app for tracking and documenting police use-of-force incidents in the United States - and I am one of the front-end engineers. After working on a couple of bug fixes and minor features - I dived into [gutting the AdminDashboard](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a/pull/363), refactoring and repurposing subcomponents, eliminating prop-drilling, and generating cleaner, more maintainable code. Next up, rebuilding the Redux store!
+I am currently QA Automation Lead for QA Wolf. No longer a scrappy, little start-up, QA Wolf has grown over the past year from just 7 people to a team of over 45! I spend my day developing and improving our QA Engineering Team's internal tools, helping streamline their workflows to serve our growing client-base and manage their automated test suites.
 
 #### What I want to do
-After an aimless and mediocre 'career' in retail - I'm making the jump! I'm actively seeking any position as a developer - frontend, backend, or otherwise.
-
-[This is all out of date! I just haven't come up with a new format for explaining that I'm a Lead QA Engineer for QA Wolf.]
+My primary career goal is to continue my trajectory with QA Wolf - becoming a better developer every day and helping this team own the space and become the 'operating system for quality' for our clients.
