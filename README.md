@@ -2,4 +2,4 @@ I have been coding/programming since I was in junior high (that's... we'll say a
 
 Quickly becoming their first QA Lead, and then QA Automation Lead, I led efforts to develop and improve their QA Engineering Team's internal tools, helping streamline their workflows to serve their growing client-base and manage their automated test suites.
 
-I'm currently seeking new opportunities to grow as a developer. I'm passionate about code and code quality, and love learning new languages and technologies. 
+I'm currently seeking new opportunities to grow as a developer. I'm passionate about code and code quality, and love learning new languages and technologies. I have a proven track record of building solutions that provide real impact. 
